@@ -38,3 +38,5 @@ Browsers block cross-origin requests from `file://` pages for security.
 
 ### Debug Panel
 ![Debug Panel](https://github.com/divmonkey/ollama_monitor/blob/main/debug.png)
+
+### Some of the tabs are not working yet, I'm still adding some features into this.
